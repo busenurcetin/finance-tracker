@@ -31,7 +31,7 @@ Bu uygulama, kullanıcıların gelir ve giderlerini takip etmelerine yardımcı 
 1. Projeyi bilgisayarınıza klonlayın veya dosyaları indirin.
 
 ```bash
-git clone https://github.com/busenurcetin/finans-takip-uygulamasi.git
+git clone https://github.com/busenurcetin/finance-tracker.git
 ```
 2. Projeyi web sunucusuna yükleyin (örneğin, Apache veya Nginx).
 3. PHP'nin düzgün çalıştığından emin olun.
